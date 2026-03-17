@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Unbounded", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cards {
+  margin-top: 32px;
+  display: flex;
+  border-top: 1px solid #CCCCCC;
+}
+.cards .card .h2 {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 40px;
+  line-height: 44px;
+  letter-spacing: 0%;
+}
+.cards .card h1 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.cards .card p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #676D83;
+}
+.cards .card {
+  margin-top: 40px;
+  width: 400px;
+  height: 200px;
+  background-color: #fff;
+}/*# sourceMappingURL=madina.css.map */
